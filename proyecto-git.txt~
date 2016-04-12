@@ -1,6 +1,6 @@
 nuevo git
-
+<<<<<<< HEAD
 tercer paso de nuestro ejercicio
-
+=======
 segundo paso de nuestro ejercicio
-
+>>>>>>> rama1
